@@ -1,0 +1,2944 @@
+# Android Package Scan Results
+Scan Time: 2025-02-12 19:44:24
+Total Packages Found: 732
+
+## CARRIER
+- com.verizon.mips.services
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.vzw.apnlib
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.vzw.hss.myverizon
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+
+## GOOGLE
+- com.google.android.adservices.api
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.google.android.aicore
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.accessibility.maui.actionblocks
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.android.apps.accessibility.voiceaccess
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.aiwallpapers
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.apps.authenticator2
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.bard
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.apps.carrier.carrierwifi
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.apps.chromecast.app
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.cultural
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.android.apps.docs
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.docs.editors.docs
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.docs.editors.sheets
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.docs.editors.slides
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.android.apps.googlevoice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.jam
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.kids.familylink
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.android.apps.maps
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.meetings
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.android.apps.messaging
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.nbu.files
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.nbu.paisa.user
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.photos
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.photos.scanner
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.android.apps.restore
+  - Description: Obviously breaks the ability to restore data from a Google backup
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.apps.stargate
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.apps.subscriptions.red
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.android.apps.tachyon
+  - Description: Obviously breaks Google Duo
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.apps.tasks
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.android.apps.translate
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.android.apps.turbo
+  - Description: Google Data collection
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.apps.walletnfcrel
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.apps.youtube.creator
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.android.apps.youtube.music
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.google.android.appsearch.apk
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.as
+  - Description: Google Device Personalization related, not needed
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.as.oss
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.calculator
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.calendar
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.captiveportallogin
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.cellbroadcastreceiver
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.cellbroadcastservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.configupdater
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.connectivity.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.contacts
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.documentsui
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.ext.services
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.ext.shared
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.federatedcompute
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.feedback
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.gm
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.gms
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.gms.location.history
+  - Description: Obviously breaks Google Location History
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.gms.supervision
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.android.googlequicksearchbox
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.gsf
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.health.connect.backuprestore
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.healthconnect.controller
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.inputmethod.latin
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.keep
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.modulemetadata
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.networkstack
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.networkstack.tethering
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.networkstack.tethering.overlay
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.ondevicepersonalization.services
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.onetimeinitializer
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.overlay.gmsconfig.asi
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.overlay.gmsconfig.common
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.overlay.gmsconfig.geotz
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.overlay.gmsconfig.gsa
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.overlay.modules.captiveportallogin.forframework
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.google.android.overlay.modules.cellbroadcastreceiver
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.overlay.modules.cellbroadcastservice
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.overlay.modules.documentsui
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.overlay.modules.ext.services
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.overlay.modules.healthfitness.forframework
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.google.android.overlay.modules.modulemetadata.forframework
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.google.android.overlay.modules.permissioncontroller
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.google.android.overlay.modules.permissioncontroller.forframework
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.google.android.packageinstaller
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.partnersetup
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.permissioncontroller
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.google.android.photopicker
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.printservice.recommendation
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.projection.gearhead
+  - Description: Obviously stops android auto from working.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.providers.media.module
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.google.android.safetycenter.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.safetycore
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.sdksandbox
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.server.deviceconfig.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.setupwizard
+  - Description: Once your phone is set up you don't need the setup wizard anymore
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.google.android.stardroid
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.syncadapters.calendar
+  - Description: If you use a calendar probably leave it.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.talk
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.tts
+  - Description: Probably breaks any TTS functionality
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.android.webview
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.google.android.youtube
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.google.ar.core
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.ar.lens
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.audio.hearing.visualization.accessibility.scribe
+  - Description: Obviously breaks Live Transcribe
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.google.earth
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: DISABLED
+- com.google.mainline.adservices
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.google.mainline.telemetry
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+
+## SAMSUNG
+- com.samsung.InputEventApp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.SMT
+  - Description: I don't know how to enable this nor have I ever used it
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.SMT.lang_en_us_l03
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.SMT.lang_es_mx_f00
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.SMT.lang_es_us_l01
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.SMT.lang_pt_br_l01
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.aasaservice
+  - Description: No Idea, but it's classed as bloatware and everything seems to work fine.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.accessibility
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.advp.imssettings
+  - Description: Could break cellular/data related stuff
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.samsung.android.ConnectivityOverlay
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.ConnectivityUxOverlay
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.accessibility.talkback
+  - Description: Accessibility Option
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.aicore
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.aircommandmanager
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.allshare.service.mediashare
+  - Description: Removes the option to share stuff to nearby devices
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.app.aodservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.app.camera.sticker.facearavatar.preload
+  - Description: No Idea
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.app.clipboardedge
+  - Description: Clipboard edge panel
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.app.contacts
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.app.dofviewer
+  - Description: Probably breaks the ability to edit portrait mode photos
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.app.dressroom
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.app.earphonetypec
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.app.esimkeystring
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.app.interpreter
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.app.moments
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.app.notes
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.samsung.android.app.omcagent
+  - Description: I don't know where to see these but I don't need samsung recommending me apps
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.app.parentalcare
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.app.readingglass
+  - Description: Obviously breaks Magnify option
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.app.reminder
+  - Description: Obviously breaks Samsung Reminders App
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.app.routines
+  - Description: If you use Bixby I would probably leave it enabled
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.app.sharelive
+  - Description: Yet another sharing option I've never used
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.app.sketchbook
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.app.smartcapture
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.app.soundpicker
+  - Description: Idk, doesn't seem to interfere with alarm or ringtone/notification sound menu
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.app.taskedge
+  - Description: Tasks edge panel
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.app.telephonyui
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.app.telephonyui.esimclient
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.app.tips
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.samsung.android.app.updatecenter
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.app.vex.scanner
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.app.watchmanagerstub
+  - Description: Might cause problems if you use Samsung Wear devices.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.appseparation
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.aremoji
+  - Description: Obviously breaks the ability to use AR Emojis
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.aremojieditor
+  - Description: Obviously breaks the ability to edit AR Emojis
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.audiomirroring
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.authfw
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.aware.service
+  - Description: Yet another sharing option I've never used
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.bbc.bbcagent
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.beaconmanager
+  - Description: Could cause problems if you use smartthings devices
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.biometrics.app.setting
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.bixby.agent
+  - Description: If you use Bixby I would probably leave it enabled
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.bixby.ondevice.enus
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.bixby.ondevice.esus
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.bixby.wakeup
+  - Description: If you use Bixby I would probably leave it enabled
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.bixbyvision.framework
+  - Description: If you use Bixby I would probably leave it enabled
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.bluelightfilter
+  - Description: Obviously breaks Samsung's blue light filter
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.brightnessbackupservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.calendar
+  - Description: Obviously breaks the Samsung Calendar app
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.callassistant
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.callbgprovider
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.samsung.android.camerasdkservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.cameraxservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.carkey
+  - Description: Samsung Pass related, if you use it probably leave them.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.cidmanager
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.coldwalletservice
+  - Description: Don't touch my dogecoin sammy
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.container
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.da.daagent
+  - Description: Obviously breaks Dual Messenger
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.dbsc
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.dck.timesync
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.dialer
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.dkey
+  - Description: Samsung Pass related, if you use it probably leave them.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.dqagent
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.dsms
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.dynamiclock
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.easysetup
+  - Description: Could cause problems if you use other samsung smart devices
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.emergency
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.ese
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.fast
+  - Description: Not actually useful, just sends notifications randomly
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.fmm
+  - Description: Obviously breaking Find My Mobile support
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.forest
+  - Description: Obviously breaks digital wellbeing
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.game.gametools
+  - Description: Some useful settings for games but not really needed
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.game.gos
+  - Description: Some useful settings for games but not really needed
+  - Safety Status: SAFE_TO_REMOVE
+  - State: DISABLED
+- com.samsung.android.globalpostprocmgr
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.gru
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.hdmapp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.honeyboard
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.hwresourceshare
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.hwresourceshare.storage
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.incall.contentprovider
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.samsung.android.incallui
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.inputshare
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.intellivoiceservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.ipsgeofence
+  - Description: I assume this is for if you go to samsung store. Not really needed
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.kgclient
+  - Description: This is knox related, DO NOT DISABLE IT, it will lock your phone completely.
+  - Safety Status: ESSENTIAL
+  - State: INSTALLED
+- com.samsung.android.kidsinstaller
+  - Description: Something related to kids mode
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.kmxservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.knox.analytics.uploader
+  - Description: Knox Related, could break secure folder and other knox features
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.knox.app.networkfilter
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.knox.attestation
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.knox.containercore
+  - Description: Not useful if you don't use work profile
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.knox.er
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.knox.kfbp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.knox.knnr
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.knox.kpecore
+  - Description: Knox Related, could break secure folder and other knox features
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.knox.mpos
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.knox.pushmanager
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.knox.sandbox
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.knox.zt.framework
+  - Description: 
+  - Safety Status: CAUTION
+  - State: DISABLED
+- com.samsung.android.liveeffectservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.location
+  - Description: Could break certain apps that use it but I haven't had any issues
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.lool
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.mapsagent
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.mcfds
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.mcfserver
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.mdecservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.mdm
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.mdx
+  - Description: Probably breaks the 'Your Phone' connection to Windows
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.mdx.kit
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.mhs.ai
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.mobileservice
+  - Description: Idk exactly what this is but I've never used 'group sharing'
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.mocca
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.motionphoto.app
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.mtp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.mydevice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.net.wifi.wifiguider
+  - Description: Idk but it seems like some bloatware
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.networkdiagnostic
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.networkstack
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.networkstack.tethering.overlay
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.nfc.resources.usa
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.nmt.apps.t2t.languagepack.enesus
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.offline.languagemodel
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.oneconnect
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.photoremasterservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.privacydashboard
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.privateaccesstokens
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.provider.filterprovider
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.samsung.android.providers.contacts
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.samsung.android.providers.factory
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.samsung.android.providers.media
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.samsung.android.providers.trash
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.samsung.android.qmdservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.rampart
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.rubin.app
+  - Description: Samsung Customization service (data collection)
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.samsungpass
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.samsung.android.samsungpassautofill
+  - Description: Obviously causes problems with Samsung Pass
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.samsungpositioning
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.samsung.android.satellite.pointing.ui
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.scloud
+  - Description: Didn't this shutdown? I don't even know how to acces this.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.scpm
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.scs
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.sdk.handwriting
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.sdk.ocr
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.sdm.config
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.sead
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.secsoundpicker
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.server.wifi.mobilewips
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.service.aircommand
+  - Description: Only present on phones with S-Pen support, removes the floating Air Command button
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.service.airviewdictionary
+  - Description: Probably for some translate option in aircommand or something else
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.service.peoplestripe
+  - Description: People edge panel
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.service.stplatform
+  - Description: Probably breaks things related to smartthings devices
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.service.tagservice
+  - Description: No Idea, but it doesn't seem to cause any problems
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.setting.multisound
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.settingshelper
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.shortcutbackupservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.singletake.service
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.sm.devicesecurity
+  - Description: I think is the McAfee nonsense under device care but idk
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.smartcallprovider
+  - Description: I don't know what smart call is but if you use it probably leave it
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.smartface
+  - Description: Probably used for face unlock
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.smartface.overlay
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.smartmirroring
+  - Description: No Idea, never heard of Smart View
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.smartsuggestions
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.smartswitchassistant
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.soundassistant
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.spay
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.spayfw
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.ssco
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.stickercenter
+  - Description: Something related to stickers/emojis
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.svcagent
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.themecenter
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.themestore
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.uwb.resources.mccmncregulation
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.vexfwk.service
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.video
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.vision.model
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.visionintelligence
+  - Description: If you use Bixby I would probably leave it enabled
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.visual.cloudcore
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.visualars
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.voc
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.samsung.android.vtcamerasettings
+  - Description: Probably for some backgrounds or effects in video calls
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.wallpaper.live
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.android.wallpaper.res
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.wcmurlsnetworkstack
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.widget.pictureframe
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.wifi.ai
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.ai.ila
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.ai.iwh
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.decrease.scan.interval.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.h2e.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.increase.scan.interval.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.largetcpbuffer.resources
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.wifi.p2paware.resources
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.android.wifi.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.resources.qc
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.resources.wifilock
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.saeupgradeoffload.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.softap.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.softapdualap.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.softapowe.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.softapqc.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.softapsixghz.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.android.wifi.softapwpathree.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.app.newtrim
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.cmh
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.drm
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.euicc
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.faceservice
+  - Description: Probably breaks face unlock stuff
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.gamedriver.sm8750
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.gpuwatchapp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.ims.smk
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.internal.systemui.navbar.gestural_no_hint
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.samsung.internal.systemui.navbar.sec_gestural
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.samsung.internal.systemui.navbar.sec_gestural_no_hint
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.samsung.ipservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.klmsagent
+  - Description: Knox Related, could break secure folder and other knox features
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.knox.securefolder
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.mediasearch
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.mfcontents
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.oda.service
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.petservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.samsung.safetyinformation
+  - Description: Idk exactly where this menu is.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.samsung.sait.sohservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.samsung.sdm
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.sec.android.application.csc
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.ssu
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.storyservice
+  - Description: Obviously breaks Stories from your Gallery
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.samsung.ts43authservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.unifiedtp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.videoscan
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.samsung.vvm
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.CcInfo
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.RilServiceModeApp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.RilPhoneNumberService
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.SecSetupWizard
+  - Description: Once your phone is set up you don't need the setup wizard anymore
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.sec.android.app.billing
+  - Description: Doesn't break Samsung Pay, idk about other stuff.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.bluetoothagent
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.camera
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.chromecustomizations
+  - Description: Probably breaks something with chrome, but it's likely not needed.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.sec.android.app.clockpackage
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.desktoplauncher
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.factorykeystring
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.hwmoduletest
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.kidshome
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.sec.android.app.launcher
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.magnifier
+  - Description: Obviously breaking magnifier
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.myfiles
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.parser
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.personalization
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.popupcalculator
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.sec.android.app.qsfastpairoverlay
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.quicktool
+  - Description: Tools edge panel
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.safetyassurance
+  - Description: Probably breaks some SOS functionality
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.samsungapps
+  - Description: Not recommended, Goodlock gets regular updates as well as other system apps.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.sbrowser
+  - Description: Obivously breaks the built in samsung browser
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.sec.android.app.servicemodeapp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.setupwizard
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.setupwizardlegalprovider
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.sec.android.app.soundalive
+  - Description: Obviously breaks SoundAlive (built in music player)
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.uwbtest
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.ve.vebgm
+  - Description: Could cause problems with the video editor
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.app.vepreload
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.app.voicenote
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.sec.android.app.volumemonitorprovider
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.sec.android.app.wlantest
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.autodoodle.service
+  - Description: Probably breaks some image editing, but idk what
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.sec.android.daemonapp
+  - Description: Removes the weather app & widgets.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.sec.android.desktopmode.uiservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.dexsystemui
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.sec.android.diagmonagent
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.easyMover
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.easyMover.Agent
+  - Description: Used for smartswitch
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.easyonehand
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.emergencylauncher
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.gallery3d
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.iaft
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.mimage.avatarstickers
+  - Description: Obviously breaks the ability to use AR Emoji Stickers
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.sec.android.mimage.photoretouching
+  - Description: Removes the ability to edit photos
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.provider.badge
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.sec.android.sdhms
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.smartfpsadjuster
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.android.soagent
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.android.widgetapp.easymodecontactswidget
+  - Description: Something in Easy Mode I assume
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.app.RilErrorNotifier
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.automation
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.bcservice
+  - Description: No Idea, but it's classed as bloatware and everything seems to work fine.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.enterprise.knox.cloudmdm.smdms
+  - Description: Knox Related, could break secure folder and other knox features
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.epdg
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.epdgtestapp
+  - Description: No Idea, but it's classed as bloatware and everything seems to work fine.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.facatfunction
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.factory.camera
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.hearingadjust
+  - Description: Breaking the Adapt Sound option
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.hiddenmenu
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.imslogger
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.imsservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.location.nfwlocationprivacy
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.location.nsflp2
+  - Description: Could break certain apps that use it but I haven't had any issues
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.mhs.smarttethering
+  - Description: Breaks the ability to turn on your hotspot from other devices
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.modem.settings
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.penup
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.sec.phone
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.providers.assisteddialing
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.sec.spp.push
+  - Description: This is what shows those annoying ads in your notifications.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.sec.sve
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.unifiedwfc
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.usbsettings
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sec.vsim.ericssonnsds.webapp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+
+## SYSTEM
+- com.android.apps.tag
+  - Description: No Idea, but it doesn't seem to cause any problems
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.backupconfirm
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.bips
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.bluetooth
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.bluetoothmidiservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.bookmarkprovider
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.calllogbackup
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.cameraextensions
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.carrierconfig
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.carrierdefaultapp
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.certinstaller
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.chrome
+  - Description: Obviously breaks Chrome, but there are so many other options for browsers
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.android.companiondevicemanager
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.companiondevicemanager.auto_generated_characteristics_rro
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.credentialmanager
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.cts.ctsshim
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.cts.priv.ctsshim
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.devicediagnostics
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.dreams.basic
+  - Description: I don't even know if this is still a thing you can access.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.dreams.phototable
+  - Description: Obviously Removes Photo Screensavers, no that anyone really uses screensavers
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.android.dynsystem
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.egg
+  - Description: Different letters for other Android versions
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.externalstorage
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.hotspot2.osulogin
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.hotwordenrollment.okgoogle
+  - Description: Google Assistant related, if you use it probably leave them.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.hotwordenrollment.xgoogle
+  - Description: Google Assistant related, if you use it probably leave them.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.htmlviewer
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.inputdevices
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.intentresolver
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.internal.display.cutout.emulation.corner
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.internal.display.cutout.emulation.double
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.internal.display.cutout.emulation.hole
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.internal.display.cutout.emulation.tall
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.internal.display.cutout.emulation.waterfall
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.internal.systemui.navbar.gestural
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.internal.systemui.navbar.threebutton
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.internal.systemui.navbar.transparent
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.keychain
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.localtransport
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.location.fused
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.managedprovisioning
+  - Description: Not useful if you don't use work profile
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.mms.service
+  - Description: Breaks MMS (related to texts)
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.mtp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.nfc
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.ons
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.pacprocessor
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.phone
+  - Description: 
+  - Safety Status: ESSENTIAL
+  - State: INSTALLED
+- com.android.phone.auto_generated_characteristics_rro
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.printspooler
+  - Description: Causes problems when printing from your phone.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.providers.blockednumber
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.providers.calendar
+  - Description: Calendar related, if you use a calendar on your phone I would keep it.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.providers.contactkeys
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.providers.downloads
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.providers.downloads.ui
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.providers.media
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.providers.partnerbookmarks
+  - Description: No Idea, but it's classed as bloatware and everything seems to work fine.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.providers.settings
+  - Description: 
+  - Safety Status: ESSENTIAL
+  - State: INSTALLED
+- com.android.providers.telephony
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.providers.telephony.auto_generated_characteristics_rro
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.providers.userdictionary
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.android.proxyhandler
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.rkpdapp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.role.notes.enabled
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.se
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.server.telecom
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.settings
+  - Description: 
+  - Safety Status: ESSENTIAL
+  - State: INSTALLED
+- com.android.settings.intelligence
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.sharedstoragebackup
+  - Description: No Idea, but it's classed as bloatware and everything seems to work fine.
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.shell
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.simappdialog
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.stk
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.stk2
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.storagemanager
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.systemui
+  - Description: 
+  - Safety Status: ESSENTIAL
+  - State: INSTALLED
+- com.android.theme.font.notoserifsource
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.traceur
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.uwb.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.vending
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.virtualmachine.res
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.vpndialogs
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.wallpaper.livepicker
+  - Description: Removes the ability to set a live wallpaper
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.wallpaperbackup
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.wallpapercropper
+  - Description: Doesn't seem to do anything, I can still apply wallpapers fine (images, videos, & live)
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.android.wifi.dialog
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.android.wifi.resources
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+
+## THIRD_PARTY
+- com.amazon.kindle
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.amazon.mShop.android.shopping
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.facebook.appmanager
+  - Description: or maybe this does?
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.facebook.services
+  - Description: more facebook spyware stuff
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.facebook.system
+  - Description: I'm betting this causes facebook to come back after updates
+  - Safety Status: SAFE_TO_REMOVE
+  - State: REMOVED
+- com.microsoft.appmanager
+  - Description: Obviously breaks Your Phone compatibility
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.microsoft.copilot
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.microsoft.office.excel
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.microsoft.office.officehubrow
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.microsoft.office.officelens
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.microsoft.office.onenote
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.microsoft.office.outlook
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.microsoft.office.powerpoint
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.microsoft.office.word
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.microsoft.skydrive
+  - Description: Obviously breaks OneDrive support
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.microsoft.teams
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.microsoft.todos
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.microsoft.whiteboard.publicpreview
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.microsoft.xboxone.smartglass
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: DISABLED
+- com.netflix.mediaclient
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: REMOVED
+- com.spotify.music
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+
+## UNKNOWN
+- abdelrahman.wifianalyzerpro
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- ai.hieroglyphs.hieroglyphs_ai
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- android.auto_generated_characteristics_rro
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- android.auto_generated_rro_product__
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- android.auto_generated_rro_vendor__
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- android.autoinstalls.config.samsung
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- app.familygem
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- app.hobbysoft.mouseripple
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- app.revanced.android.gms
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- app.revanced.android.youtube
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- app.revanced.manager.flutter
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- bbl.intl.bambulab.com
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- cc.forestapp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.IdleFriday.Automatoys
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.Slack
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.aa.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.adobe.lrmobile
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.airbnb.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.alltrails.alltrails
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.amdroidalarmclock.amdroid
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.americanexpress.android.acctsvcs.us
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.andymstone.metronome
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.anthropic.claude
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.apple.qrcode.reader
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.appsymphony.run5k
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.appxy.tinyscanner
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.arlosoft.macrodroid
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.atakmap.app.civ
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.audible.application
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.axiommobile.dumbbells
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.bitstrips.imoji
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.bodyweight.fitness.free
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.boedec.hoel.frequencygenerator
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.brave.browser
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.brother.mfc.brprint
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.brother.mfc.mobileconnect
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.brother.printservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.chamberlain.android.liftmaster.myq
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.coinbase.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.collectivehealth.member
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.coolniks.niksgps
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.delta.mobile.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.despdev.sevenminuteworkout
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.digitalchemy.currencyconverter
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.digitalchemy.timerplus
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.discord
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.driivz.mobile.android.evgo.driver
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.duckduckgo.mobile.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.duosecurity.duomobile
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.ebay.mobile
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.fiverr.fiverr
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.flightradar24free
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: DISABLED
+- com.ford.fordpass
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.foxit.mobile.pdf.lite
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.freecolors.routinetimer
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.fstop.photo
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.fstop.photo.key
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.garmin.android.apps.connectmobile
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.garmin.connectiq
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.geektechnology.geeksmarthome
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: DISABLED
+- com.giphy.messenger
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.gm.buick.nomad.ownership
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.harristeeter.htmobile
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.hiya.star
+  - Description: Caller ID & Call Protection features
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.hopskipdrive.hsd_android_v2
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.imgur.mobile
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.ivuu
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.jack.emaybloodoxygen
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.jotform.v2
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.joyhonest.wifi_check
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.kabacon.octoremote
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.kami.oscilloscope
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.knox.vpn.proxyhandler
+  - Description: Knox Related, could break secure folder and other knox features
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.kodarkooperativet.blackplayerfree
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: DISABLED
+- com.kylecorry.trail_sense
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.kyleriedemann.hiphopairhorn
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.linkedin.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.lunarlabsoftware.grouploop
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: DISABLED
+- com.luxdelux.frequencygenerator
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.marriott.mrt
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.materials.blender_materials
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.maxsee.maxsee2
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.mcmaster.mcmaster_carr_app
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.media.zatashima.studio
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.molink.john.hdwifi
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.monotype.android.font.foundation
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.monotype.android.font.roboto
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.monotype.android.font.samsungone
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.myprog.netutils
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.navyfederal.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.neurondigital.exercisetimer
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.niksoftware.snapseed
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.nvidia.shield.remote
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.oceanwing.battery.cam
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.oculus.twilight
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.omdigitalsolutions.oishare
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.onemedical.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.oneplus.calculator
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.openai.chatgpt
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.optivelox.radmeter
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.orangetheoryfitness.orangetheory
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.osp.app.signin
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.pandora.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.patreon.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.paypal.android.p2pmobile
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.pbksoft.pacecontrol
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.peapod.app.mobile.droid
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.pentasa.gamemn02.googlesettingsshortcut
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: DISABLED
+- com.phonevalley.progressive
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.podcast.podcasts
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.prioritypass3
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.priviamedicalgroup.priviaapp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.qti.qcc
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.qti.snapdragon.qdcm_ff
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.qualcomm.location
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.qualcomm.qti.gpudrivers.sun.api35
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.qualcomm.qti.services.systemhelper
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.qualcomm.timeservice
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.redfin.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.resmed.myair
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.revopoint3d.revoscan
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.riteshsahu.SMSBackupRestore
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.roku.remote
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.rover.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.runar.issdetector
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.rundouble.companion
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.samruston.buzzkill
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.scannerradio
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.schlagelink.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.sem.factoryapp
+  - Description: No Idea
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.shazam.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.siemens.ford80A
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.silentlexx.gpslock
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.skiracer.nautical_astore_lite
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.skms.android.agent
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.smartaddx.vicohome
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.snapchat.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.socialnmobile.dictapps.notepad.color.note
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.ss.edgegestures
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.ss.moreshortcuts
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.substack.app
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.synprez.fm
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.teslacoilsw.launcher
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.teslacoilsw.launcher.prime
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.test.LTEfunctionality
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.textra
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.thehomedepot
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.thetileapp.tile
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.turtleapps.relaxingsleepsoundspro
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.tyriansystems.SeekThermal
+  - Description: 
+  - Safety Status: CAUTION
+  - State: INSTALLED
+- com.ubercab
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.united.mobile.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.urbandictionary.android
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: DISABLED
+- com.venmo
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.vrem.wifianalyzer
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.waze
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.whatsapp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.wogo.widar.android
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: DISABLED
+- com.wsomacp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.wssyncmldm
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.x8bit.bitwarden
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- com.xda.nachonotch
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- com.zengge.wifi
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- com.zooniversemobile
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- de.danoeh.antennapod
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- de.herberlin.boatspeed
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- de.inforapid.knowledgebasebuilder.android
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- de.ralphsapps.snorecontrol
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- gov.nasa
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- marto.androsdr.key
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- marto.androsdr2
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- marto.rtl_tcp_andro
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- md.obsidian
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- mobi.lockdown.weather
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- net.mullvad.mullvadvpn
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- net.sharewire.parkmobilev2
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- net.xnano.android.photoexifeditor.pro
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- org.chromium.webapk.ae20e2bacdb8dab13_v2
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- org.craigslist.CraigslistMobile
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- org.intoorbit.spectrum
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- org.joinmastodon.android
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- org.kiwix.kiwixmobile
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- org.ligi.survivalmanual
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- org.mozilla.firefox
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- org.mozilla.focus
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- org.nearbywiki.en.twa
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- org.sbaudio.oscope
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- org.talkingpoints.parents
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- org.thoughtcrime.securesms
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- org.wikipedia
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- org.xssembler.chordsplus
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- ph.eurocb.multiroom
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- pl.nenter.app.bubblelevel
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+- relax.sleep.relaxation.sleepingsounds
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- ru.iiec.pydroid3
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- uk.co.openweather
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- us.zoom.videomeetings
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- vendor.qti.data.ntnsatapp
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- vendor.qti.data.txpwradmin
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- vendor.qti.hardware.cacert.server
+  - Description: 
+  - Safety Status: SAFE_TO_REMOVE
+  - State: INSTALLED
+- xyz.blueskyweb.app
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- xyz.klinker.messenger
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: INSTALLED
+- yuh.yuh.finelock
+  - Description: 
+  - Safety Status: UNKNOWN
+  - State: DISABLED
+
